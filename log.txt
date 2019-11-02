@@ -1,2 +1,5 @@
 Time: 22:16:21   URL: http://localhost:2000/cars
 Time: 22:16:24   URL: http://localhost:2000/cars
+Time: 22:24:15   URL: http://localhost:2000/cars
+Time: 22:24:35   URL: http://localhost:2000/cars
+ Time: 22:58:24   URL: http://localhost:2000/cars 
